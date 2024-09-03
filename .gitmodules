@@ -1,0 +1,9 @@
+[submodule "servermods"]
+	path = servermods
+	url = https://github.com/Linux4-CTF/servermods
+[submodule "rules"]
+	path = rules
+	url = https://github.com/MT-CTF/rules
+[submodule "server-cosmetics"]
+	path = server-cosmetics
+	url = https://github.com/MT-CTF/server-cosmetics
